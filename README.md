@@ -1,4 +1,4 @@
-# Scheduling_Bi-Modal
+# Redundancy_Scheduling
 
 Simulation of a queueing system, where:
 * jobs have _bi-modal_ service time distribution, and
